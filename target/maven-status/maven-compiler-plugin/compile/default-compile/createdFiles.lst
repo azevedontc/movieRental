@@ -1,0 +1,10 @@
+br\edu\utfpr\filme\Filme.class
+br\edu\utfpr\filme\Midia.class
+br\edu\utfpr\emprestimo\Emprestimo.class
+br\edu\utfpr\filme\Exemplar.class
+br\edu\utfpr\app\App.class
+br\edu\utfpr\pagamento\Cartao.class
+br\edu\utfpr\pagamento\Pix.class
+br\edu\utfpr\devolucao\Devolucao.class
+br\edu\utfpr\pagamento\Pagamento.class
+br\edu\utfpr\pagamento\Dinheiro.class
