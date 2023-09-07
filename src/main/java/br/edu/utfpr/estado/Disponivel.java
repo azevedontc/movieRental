@@ -8,7 +8,7 @@ import br.edu.utfpr.filme.Exemplar;
 
 /**
  *
- * @author utfpr
+ * @author azevedo
  */
 public class Disponivel implements Estado{
     

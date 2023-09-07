@@ -6,7 +6,7 @@ package br.edu.utfpr.estado;
 
 /**
  *
- * @author utfpr
+ * @author azevedo
  */
 public interface Estado {
     public void emprestar();

@@ -9,7 +9,7 @@ import br.edu.utfpr.pagamento.Pagamento;
 
 /**
  *
- * @author utfpr
+ * @author azevedo
  */
 public class Devolucao {
     private Emprestimo e;

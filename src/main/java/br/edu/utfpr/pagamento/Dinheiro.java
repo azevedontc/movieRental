@@ -6,7 +6,7 @@ package br.edu.utfpr.pagamento;
 
 /**
  *
- * @author utfpr
+ * @author azevedo
  */
 public class Dinheiro implements Pagamento{
      
