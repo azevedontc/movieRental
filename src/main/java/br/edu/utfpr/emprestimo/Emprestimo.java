@@ -22,8 +22,9 @@ public class Emprestimo {
         listaExemplares.remove(e);
     }
     
+    // Caso esteja emprestado
     public void emprestar(){
-        System.out.println("Emprestimo concluido");
+        System.out.println("Emprestimo concluído");
         System.out.println("Filmes emprestados: ");
         for (Exemplar l : listaExemplares) {
             l.emprestar();
